@@ -1,0 +1,16 @@
+{
+  "name": "hubspot-crm-contacts",
+  "version": "1.0.0",
+  "description": "Fetch the first 10 contacts from HubSpot CRM using Axios",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["hubspot", "crm", "contacts", "axios"],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  }
+}
